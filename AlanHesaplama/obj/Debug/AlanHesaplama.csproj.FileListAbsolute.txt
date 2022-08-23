@@ -1,0 +1,8 @@
+C:\Users\casper\Desktop\Patika\C#\AlanHesaplama\AlanHesaplama\bin\Debug\AlanHesaplama.exe.config
+C:\Users\casper\Desktop\Patika\C#\AlanHesaplama\AlanHesaplama\bin\Debug\AlanHesaplama.exe
+C:\Users\casper\Desktop\Patika\C#\AlanHesaplama\AlanHesaplama\bin\Debug\AlanHesaplama.pdb
+C:\Users\casper\Desktop\Patika\C#\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\Patika\C#\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\Patika\C#\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Patika\C#\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.exe
+C:\Users\casper\Desktop\Patika\C#\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.pdb
